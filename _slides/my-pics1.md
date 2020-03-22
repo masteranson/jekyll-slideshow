@@ -11,4 +11,4 @@ pause: 10000
 * <img width="10%" height="10%" src="my-pics1/photo4.jpg">
 * <img width="10%" height="10%" src="my-pics1/photo14.jpg">
 * <img width="10%" height="10%" src="my-pics1/photo15.jpg">
-* !<img width="10%" height="10%" src="my-pics1/photo16.jpg">
+* <img width="10%" height="10%" src="my-pics1/photo16.jpg">
