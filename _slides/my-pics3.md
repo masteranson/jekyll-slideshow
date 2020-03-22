@@ -6,6 +6,7 @@ auto: true
 loop: true
 gallery: true
 pause: 10000
+verticalHeight: 450
 ---
 
 * <img width="50%" height="50%" src="my-pics1/photo11.JPG">
