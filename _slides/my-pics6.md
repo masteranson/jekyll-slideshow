@@ -9,6 +9,6 @@ pause: 10000
 verticalHeight: 500
 ---
 
-* <img width="50%" height="auto" src="my-pics1/photo22.png">
-* <img width="50%" height="auto" src="my-pics1/photo23.png">
+* <img width="50%" height="auto" src="my-pics1/photo25.png">
+* <img width="50%" height="auto" src="my-pics1/photo30.png">
 * <img width="50%" height="auto" src="my-pics1/photo28.png">
