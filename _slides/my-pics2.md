@@ -10,5 +10,5 @@ verticalHeight: 500
 ---
 
 * <img width="50%" height="50%" src="my-pics1/photo2.jpg">
-<figcaption>Our battery container and battery cooling fins manufactured by Swift Atlanta, the largest sheet metal OEM factory in Georgia!</figcaption>
+###### Our battery container and battery cooling fins manufactured by Swift Atlanta, the largest sheet metal OEM factory in Georgia!
 * <img width="50%" height="50%" src="my-pics1/photo3.jpg">
