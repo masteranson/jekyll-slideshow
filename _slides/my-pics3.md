@@ -7,6 +7,7 @@ loop: true
 gallery: true
 pause: 10000
 verticalHeight: 500
+adaptiveHeight: true
 ---
 
 * <img width="50%" height="50%" src="my-pics1/photo11.JPG">
