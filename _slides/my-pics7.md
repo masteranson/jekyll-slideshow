@@ -10,5 +10,5 @@ verticalHeight: 500
 
 ---
 
-*  <div class="box"> <src="my-pics1/photo7.JPG"></div>
-*  <div class="box"> <src="my-pics1/photo10.PNG"></div>
+*  <div class="box"> <img src="my-pics1/photo7.JPG"></div>
+*  <div class="box"> <img src="my-pics1/photo10.PNG"></div>
