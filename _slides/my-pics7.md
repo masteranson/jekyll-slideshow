@@ -11,4 +11,4 @@ verticalHeight: 500
 ---
 
 *  <div class="box"> <img src="my-pics1/photo7.JPG"></div>
-* <img src="//images.weserv.nl/?url=masteranson.github.io/jekyll-slideshow/slides/my-pics1/my-pics1/photo10.PNG&w=300&h=300&fit=inside">
+* <img src="//images.weserv.nl/?url=masteranson.github.io/jekyll-slideshow/slides/my-pics1/photo10.PNG&w=300&h=300&fit=inside">
