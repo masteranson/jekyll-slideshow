@@ -6,7 +6,7 @@ auto: true
 loop: true
 gallery: true
 pause: 10000
-verticalHeight: 500
+verticalHeight: 600
 ---
 
 * ![deeznuts](my-pics1/photo25.png)
