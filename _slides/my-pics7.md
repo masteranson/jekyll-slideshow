@@ -10,5 +10,5 @@ verticalHeight: 500
 
 ---
 
-* <div class="box"> <img style='height: 100%; width: 100%; object-fit: contain'src="my-pics1/photo7.JPG"></div>
-* <div class="box"> <img style='height: 100%; width: 100%; object-fit: contain src="my-pics1/photo10.PNG"></div>
+* <div class="box"> <img style='height: 100%; width: 100%; object-fit: contain' src="my-pics1/photo7.JPG"></div>
+* <div class="box"> <img style='height: 100%; width: 100%; object-fit: contain' src="my-pics1/photo10.PNG"></div>
