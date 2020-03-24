@@ -6,7 +6,7 @@ auto: true
 loop: true
 gallery: true
 pause: 10000
-verticalHeight: 500
+
 ---
 
 * <div class="box"> <img style='height: 100%; width: 100%; object-fit: contain' src="my-pics1/photo25.png"></div>
