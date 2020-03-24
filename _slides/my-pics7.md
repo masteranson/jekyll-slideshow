@@ -11,4 +11,4 @@ verticalHeight: 500
 ---
 
 *  <div class="box"> <img src="my-pics1/photo7.JPG"></div>
-*  <div class="box"> <img src="my-pics1/photo10.PNG"></div>
+* <img src="//images.weserv.nl/?url=my-pics1/photo10.PNG&w=300&h=300&fit=inside">
