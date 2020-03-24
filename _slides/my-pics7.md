@@ -9,5 +9,5 @@ pause: 10000
 verticalHeight: 500
 ---
 
-* ![deeznuts](my-pics1/photo7.JPG)
-* ![deeznuts](my-pics1/photo10.PNG)
+* <img width="auto" height="30%" src="my-pics1/photo7.JPG">
+* <img width="auto" height="30%" src="my-pics1/photo10.JPG">
