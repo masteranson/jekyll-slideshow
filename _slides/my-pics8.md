@@ -6,9 +6,9 @@ auto: true
 loop: true
 gallery: true
 pause: 10000
-adaptiveHeight: true
+verticalHeight: 500
 ---
 
-* <div class="box"> <img width="30%" height="auto" src="my-pics1/photo8.jpg"> </div>
-* ![deeznuts2](my-pics1/photo29.PNG)
-* ![deeznuts3](my-pics1/photo31.jpg)
+* <div class="box"> <src="my-pics1/photo8.jpg"> </div>
+* <div class="box"> <src="my-pics1/photo29.PNG"> </div>
+* <div class="box"> <src="my-pics1/photo31.jpg"> </div>
