@@ -9,5 +9,5 @@ pause: 10000
 adaptiveHeight: true
 ---
 
-* <img width="30%" height="auto" src="my-pics1/photo7.JPG">
-* <img width="auto" height="auto" src="my-pics1/photo10.PNG">
+*  <div class="box"> <img width="30%" height="auto" src="my-pics1/photo7.JPG"></div>
+*  <div class="box"> <img width="auto" height="auto" src="my-pics1/photo10.PNG"></div>
